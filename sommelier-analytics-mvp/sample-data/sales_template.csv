@@ -1,0 +1,11 @@
+wine_name,sale_date,quantity,unit_price,unit_cost,server_name,table_number
+2019 Opus One,2025-01-05,1,385.00,195.00,Sarah,12
+2021 Cloudy Bay Sauvignon Blanc,2025-01-05,2,45.00,22.00,Mike,8
+2022 Whispering Angel Rosé,2025-01-05,1,28.00,14.00,Sarah,15
+2021 Stags' Leap Chardonnay,2025-01-06,1,58.00,29.00,John,3
+2022 Domaine Drouhin Pinot Noir,2025-01-06,2,65.00,32.00,Sarah,7
+NV Veuve Clicquot Brut,2025-01-06,1,75.00,38.00,Mike,11
+2021 Cloudy Bay Sauvignon Blanc,2025-01-07,1,45.00,22.00,John,4
+2019 Barolo Brunate,2025-01-07,1,125.00,62.00,Mike,9
+2022 Whispering Angel Rosé,2025-01-07,3,28.00,14.00,Sarah,14
+2021 Stags' Leap Chardonnay,2025-01-08,1,58.00,29.00,John,6

@@ -1,0 +1,9 @@
+name,producer,vintage,varietal,region,country,wine_type,body,price,cost,inventory_count
+2019 Opus One,Opus One Winery,2019,Cabernet Sauvignon,Napa Valley,USA,red,full,385.00,195.00,12
+2021 Cloudy Bay Sauvignon Blanc,Cloudy Bay,2021,Sauvignon Blanc,Marlborough,New Zealand,white,medium,45.00,22.00,24
+2020 Château Margaux,Château Margaux,2020,Bordeaux Blend,Margaux,France,red,full,895.00,450.00,6
+2022 Domaine Drouhin Pinot Noir,Domaine Drouhin,2022,Pinot Noir,Willamette Valley,USA,red,medium,65.00,32.00,18
+NV Veuve Clicquot Brut,Veuve Clicquot,NV,Champagne Blend,Champagne,France,sparkling,medium,75.00,38.00,15
+2021 Stags' Leap Chardonnay,Stags' Leap Winery,2021,Chardonnay,Napa Valley,USA,white,full,58.00,29.00,20
+2019 Barolo Brunate,Marcarini,2019,Nebbiolo,Piedmont,Italy,red,full,125.00,62.00,8
+2022 Whispering Angel Rosé,Château d'Esclans,2022,Grenache,Provence,France,rose,light,28.00,14.00,36
