@@ -44,14 +44,14 @@ class Sale(Base):
     @property
     def profit(self):
         """Calculate profit for this sale"""
-        if self.unit_cost:
+        if self.unit_cost is not 0:
             return (self.unit_price - self.unit_cost) * self.quantity
         return None
     
     @property
     def profit_margin(self):
         """Calculate profit margin percentage"""
-        if self.unit_cost and self.unit_price:
+        if self.unit_cost is not 0 and self.unit_price is not 0:
             return ((self.unit_price - self.unit_cost) / self.unit_price) * 100
         return None
     

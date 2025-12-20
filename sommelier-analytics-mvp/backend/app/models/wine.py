@@ -74,14 +74,14 @@ class Wine(Base):
     @property
     def profit_margin(self):
         """Calculate profit margin percentage"""
-        if self.cost and self.price:
+        if self.cost is not 0 and self.price is not 0:
             return ((self.price - self.cost) / self.price) * 100
         return None
     
     @property
     def markup(self):
         """Calculate markup percentage"""
-        if self.cost and self.price:
+        if self.cost is not 0 and self.price is not 0:
             return ((self.price - self.cost) / self.cost) * 100
         return None
     
